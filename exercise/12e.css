@@ -1,0 +1,9 @@
+.home-div {
+  display: flex;
+}
+
+.home-button {
+  margin-left: 50px;
+  padding-left: 100;
+  flex: 1;
+}

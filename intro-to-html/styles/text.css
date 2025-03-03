@@ -1,0 +1,53 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+}
+
+.heading {
+  font-size: 14px;
+  width: 200px;
+  font-weight: bold;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+
+.stats {
+  font-size: 14px;
+  color: rgb(100, 97, 97);
+  margin-bottom: 20px;
+}
+
+.author {
+  font-size: 14px;
+  color: rgb(100, 97, 97);
+  margin-bottom: 20px;
+}
+
+.describtion {
+  font-size: 14px;
+  color: rgb(100, 97, 97);
+  line-height: 22px;
+  width: 280px;
+  margin-bottom: 100px;
+
+}
+
+
+.end {
+  text-align: center;
+  text-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-bottom: 50px;
+
+}
+
+.shop-link {
+  cursor: pointer;
+}
+
+.shop-link:hover {
+  text-decoration: underline;
+}
